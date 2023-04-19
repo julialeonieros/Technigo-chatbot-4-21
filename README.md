@@ -7,7 +7,6 @@ The aim of this project was to build a chat bot using Javascript. The website wa
 If we had more time, we would develop the ability to accept several different answers from user.
 
 ## Techniques used:
-* HTML
 * CSS
 * JavaScript
 * Pair programming
